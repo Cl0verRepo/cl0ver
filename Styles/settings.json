@@ -1,0 +1,11 @@
+{
+    "name": "Cl0ver",
+    "description": "An Amazing Cydia/Sileo Repository",
+    "tint": "#00FFFF",
+    "cname": "github.io",
+    "maintainer": {
+        "name": "cl0verrepo",
+        "email": "cl0verrepo@gmail.com"
+    },
+    "automatic_git": "true"
+}
